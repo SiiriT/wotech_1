@@ -1,4 +1,4 @@
-Read me file uses markdown syntax to edit any text...
+```Read me file uses markdown syntax to edit any text...
 
 # Welcome to my repositary 🔑
 
@@ -16,4 +16,4 @@ public class Main {
   public static void main(String[] args) {
     System.out.println("Temperatuurid");
     var int = 
-'''
+```
